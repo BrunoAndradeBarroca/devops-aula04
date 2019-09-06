@@ -5,3 +5,4 @@ Filme #2: Vingadores</br>
 Filme #3: O Poderoso Chefão</br>
 Filme #4: Venom</br>
 Filme #5: Homem Aranha</br>
+Filme #6: Velozes e Furiosos</br>
